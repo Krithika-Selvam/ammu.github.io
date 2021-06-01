@@ -1,0 +1,32 @@
+#title{
+    background-image: url("4.jpg");
+    padding: 10% 10%;
+    text-align: center;
+}
+.tit{
+    margin-top: 2%;
+    padding-top: 2%;
+}
+.pho{
+    color: black;
+    text-align: center;
+}
+.pho-child{
+    width: 80%;
+    border-radius: 100%;
+}
+
+.row{
+    padding: 5% 10%;
+}
+#childhood{
+ background-color: #9AFEFF;
+}
+.han{
+    width: 80%;
+    border-radius: 100%;
+}
+#hansi{
+    background-color:#FF9B99;
+}
+
